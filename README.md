@@ -5,4 +5,6 @@ I have an amateur Java code which takes in grade points and total credits for ea
 
 Integrating this code to our college website will be helpful for students in knowing their GPA/CGPA without getting their brains tangled up.
 
-Open to learn and improve.
+Will be glad to learn how to improve my code, and integrating this functionality in a college website.
+
+Assemble college DEVS!
